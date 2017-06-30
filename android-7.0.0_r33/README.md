@@ -38,7 +38,7 @@ development/tools/idegen/idegen.sh
 
 ```
 <!-- excludeFolder: 不导入某些模块 -->
-<!-- 自定义配置：只导入了framworks和packages模块 -->
+<!-- 自定义配置：只导入了packages模块 -->
 <excludeFolder url="file://$MODULE_DIR$/abi" />
 <excludeFolder url="file://$MODULE_DIR$/art" />
 <excludeFolder url="file://$MODULE_DIR$/bionic" />
